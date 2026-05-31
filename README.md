@@ -1,5 +1,5 @@
 # SQL Questions
-
+hhhh
 ## These questions are related to the Music datasets and I have put insightful output to the given query 
 
 > All these questions are taken from a YouTube tutorial and most of the answers are answered by me.
